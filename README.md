@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amitdeshmukh-stdout-mcp-server-badge.png)](https://mseep.ai/app/amitdeshmukh-stdout-mcp-server)
+
 # stdout-mcp-server
 
 A Model Context Protocol (MCP) server that captures and manages stdout logs through a named pipe system. This server is particularly useful for:
